@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+}
+body{
+	background: #342156;
+	height: 600em;
+}
+
+.box-right{
+	float: left;
+	background-color: #fff;
+}	
+
+.list-group{
+	width: 20em;
+	height: 15em;
+	float: right;
+	padding-left: 2em;
+	padding-top: 2em;
+}
+
+#display-counter{
+	background:;
+	box-shadow: 15px 15px 15px 1 #546378;
+}
